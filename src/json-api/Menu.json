@@ -1,0 +1,73 @@
+[
+  {
+    "id" : "key-1",
+    "label" : "Home",
+    "url" : "/",
+    "dropdown" : false
+  },
+  {
+    "id" :"key-2",
+    "label" : "Services",
+    "url" : "/",
+    "dropdown" : true,
+    "dropDownMenu" : [
+      {
+        "id" : "key-3",
+        "label" : "Termites Control",
+        "url" : "/termites-control"
+      },
+      {
+        "id" : "key-4",
+        "label" : "Cockroch Control",
+        "url" : "/ant"
+      },
+      {
+        "id" : "key-5",
+        "label" :"Rodent Control",
+        "url" : "/rodent-control"
+      },
+      {
+        "id" : "key-6",
+        "label" : "Bug Control",
+        "url" : "/bug-control"
+      },
+      {
+        "id" : "key-7",
+        "label" : "Ant Control",
+        "url" : "/ant-control"
+      },
+      {
+        "id" : "key-8",
+        "label" : "fly Control",
+        "url" : "/fly-control"
+      }
+
+    ]
+  },
+  {
+    "id" :"key-9",
+    "label" : "About us",
+    "url" : "/about",
+    "dropdown" : false
+  },
+  {
+    "id" : "key-10",
+    "label" : "Contact us",
+    "url" : "/contact",
+    "dropdown" : false
+  },
+  {
+    "id" : "key-11",
+    "label" : "GET QUOTES",
+    "url" : "/",
+    "dropdown" : false,
+    "button" :true
+  },
+  {
+    "id" : "key-12",
+    "label" : "ADMIN",
+    "url" : "/",
+    "dropdown" : false,
+    "button" :true
+  }
+]
